@@ -2,6 +2,8 @@
 
 - 🔱 17 Yaşındayım Bodrum ilçesinde Yaşıyorum.
 
+- 🎭 Önceki Gmail Kaybetim İçin Yeni Githup Hesabı Oluşturdum
+
 - 👀 `4 Seneyi` Aşmış Bir Süredir Algos Nkoa Olarak Bilinen Bir Discord Kullanıcısıyım.
 
 - 🌱 2 Yıldır `Web` Ve `Discord Bot` Geliştiricisiyim, Halk Hitabıyla Botçuyum.
