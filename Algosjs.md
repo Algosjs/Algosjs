@@ -14,4 +14,4 @@
 - 📫 Eğer Bana Ulaşmak İsteren;
 》`algosnkoa4@gmail.com` gmail veya ` İg:@the.onderx ` adreslerinden ulaşa bilirsin
 
-https://media.discordapp.net/attachments/972879019768950815/973020441314738206/8d6993899350aa33f834102c9c0645f8.jpg
+[Algos]https://media.discordapp.net/attachments/972879019768950815/973020441314738206/8d6993899350aa33f834102c9c0645f8.jpg
