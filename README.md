@@ -1,6 +1,6 @@
 - 👋 Selam Benim Adım Önder!
 
-- 🔱 17 Yaşındayım Bodrum ilçesinde Yaşıyorum.
+- 🔱 Bodrum ilçesinde Yaşıyorum.
 
 - 🎭 Önceki Gmail Kaybetim İçin Yeni Githup Hesabı Oluşturdum
 
